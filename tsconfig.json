@@ -10,11 +10,11 @@
         "noFallthroughCasesInSwitch": true,
         "noImplicitOverride": true,
         "noImplicitReturns": true,
-        "noPropertyAccessFromIndexSignature": true,
         "noUncheckedIndexedAccess": true,
         "noUnusedLocals": true,
         "noUnusedParameters": true,
         "strict": true,
+        "resolveJsonModule": true,
 
         // Modules
         "module": "ES2020",

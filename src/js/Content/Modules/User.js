@@ -102,6 +102,7 @@ class User {
     /*
      * Retrieve user access token to use in new style WebAPI calls (Services)
      * https://github.com/Revadike/UnofficialSteamWebAPI/wiki/Get-Points-Summary-Config
+     * @deprecated Might be deprecated, use ApplicationConfig
      */
     static get accessToken() {
         if (User._accessToken) { return User._accessToken; }
