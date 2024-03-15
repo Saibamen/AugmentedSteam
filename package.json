@@ -32,6 +32,7 @@
   "dependencies": {
     "dompurify": "^3.0.9",
     "idb": "^7.1.1",
+    "protobufjs": "^7.2.6",
     "svelte": "^4.2.12",
     "webextension-polyfill": "^0.10.0"
   }
